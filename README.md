@@ -46,9 +46,9 @@ Luego abre:
 http://localhost:5173
 ```
 ## Integrantes
-Edwin Chusin
-Ismael Narvaez
-Joel Acosta
+Edwin Chusin -
+Ismael Narvaez -
+Joel Acosta -
 ## Capturas de pantalla 
 <img width="695" height="590" alt="Capture_2026-05-06_22-49-10" src="https://github.com/user-attachments/assets/c0920af4-fb97-4c14-ac65-68160c375b32" />
 <img width="710" height="338" alt="Capture_2026-05-06_22-48-26" src="https://github.com/user-attachments/assets/a67c5821-675c-4b5d-b798-5a7dc364e8b8" />
